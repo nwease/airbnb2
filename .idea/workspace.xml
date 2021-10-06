@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab274da-4e1d-48d3-a96b-0f170e9df210" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Banner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/MediumCards.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SmallCards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
@@ -36,7 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +51,8 @@
       <workItem from="1631781455964" duration="136000" />
       <workItem from="1631781769879" duration="3962000" />
       <workItem from="1632744918502" duration="133000" />
-      <workItem from="1633336369857" duration="2405000" />
+      <workItem from="1633336369857" duration="4887000" />
+      <workItem from="1633506416743" duration="4228000" />
     </task>
     <servers />
   </component>
