@@ -3,6 +3,8 @@ import Header from '../components/Header';
 import Banner from '../components/Banner';
 import SmallCards from '../components/SmallCards';
 import MediumCards from '../components/MediumCards';
+import LargeCard from '../components/LargeCard';
+import Footer from '../components/Footer';
 
 export default function Home({exploreData, cardsData}) {
     return (
@@ -44,17 +46,28 @@ export default function Home({exploreData, cardsData}) {
                         Live anywhere
                     </h2>
 
-                    {
-                        cardsData.map(item => (
-                            <MediumCards
-                                key={item.img}
-                                img={item.img}
-                                title={item.title}
-                            />
-                        ))
-                    }
+                    <div className='flex space-x-3.5 overflow-scroll scrollbar-hide p-3 -ml-3'>
+                        {
+                            cardsData?.map(item => (
+                                <MediumCards
+                                    key={item.img}
+                                    img={item.img}
+                                    title={item.title}
+                                />
+                            ))
+                        }
+                    </div>
                 </section>
+
+                <LargeCard
+                    img='https://links.papareact.com/4cj'
+                    title='Discover things to do'
+                    description='Wishlists created by AirBnb'
+                    buttonText='Learn More'
+                />
             </main>
+
+            <Footer />
         </div>
     )
 }

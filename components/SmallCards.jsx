@@ -15,16 +15,12 @@ function SmallCards({img, location, distance}) {
             </div>
 
             <div>
-                <h2>
-                    {
-                        location
-                    }
+                <h2 className='font-semibold'>
+                    {location}
                 </h2>
 
                 <h3>
-                    {
-                        distance
-                    }
+                    {distance}
                 </h3>
             </div>
         </div>
