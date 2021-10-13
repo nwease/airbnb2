@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab274da-4e1d-48d3-a96b-0f170e9df210" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/InfoCard.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/LargeCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/LargeCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MediumCards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MediumCards.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SmallCards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SmallCards.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,9 @@
       <workItem from="1631781769879" duration="3962000" />
       <workItem from="1632744918502" duration="133000" />
       <workItem from="1633336369857" duration="4887000" />
-      <workItem from="1633506416743" duration="11876000" />
+      <workItem from="1633506416743" duration="12705000" />
+      <workItem from="1633950957995" duration="3235000" />
+      <workItem from="1634024272551" duration="12634000" />
     </task>
     <servers />
   </component>
